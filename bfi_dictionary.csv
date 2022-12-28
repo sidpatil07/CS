@@ -1,0 +1,29 @@
+variable,label,value_labels,Giant3,Big6,Little12,Keying
+A1,Am indifferent to the feelings of others.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Cohesion,Agreeableness,Compassion,-1
+A2,Inquire about others' well-being.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Cohesion,Agreeableness,Compassion,1
+A3,Know how to comfort others.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Cohesion,Agreeableness,Compassion,1
+A4,Love children.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Cohesion,Agreeableness,Compassion,1
+A5,Make people feel at ease.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Cohesion,Agreeableness,Compassion,1
+C1,Am exacting in my work.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Conscientiousness,Orderliness,1
+C2,Continue until everything is perfect.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Conscientiousness,Orderliness,1
+C3,Do things according to a plan.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Conscientiousness,Orderliness,1
+C4,Do things in a half-way manner.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Conscientiousness,Industriousness,-1
+C5,Waste my time.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Conscientiousness,Industriousness,-1
+E1,Don't talk a lot.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Extraversion,Sociability,-1
+E2,Find it difficult to approach others.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Extraversion,Sociability,-1
+E3,Know how to captivate people.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Extraversion,Assertiveness,1
+E4,Make friends easily.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Extraversion,Sociability,1
+E5,Take charge.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Extraversion,Assertiveness,1
+N1,Get angry easily.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Emotional Stability,Balance,-1
+N2,Get irritated easily.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Emotional Stability,Balance,-1
+N3,Have frequent mood swings.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Emotional Stability,Balance,-1
+N4,Often feel blue.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Emotional Stability,Balance,-1
+N5,Panic easily.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Stability,Emotional Stability,Balance,-1
+O1,Am full of ideas.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Openness,Intellect,1
+O2,Avoid difficult reading material.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Openness,Intellect,-1
+O3,Carry the conversation to a higher level.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Openness,Intellect,1
+O4,Spend time reflecting on things.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Openness,Openness,1
+O5,Will not probe deeply into a subject.,1 Very Inaccurate 2 Moderately Inaccurate 3 Slightly Inaccurate 4 Slightly Accurate 5 Moderately Accurate 6 Very Accurate,Plasticity,Openness,Openness,-1
+gender,gender,"males=1, females=2",,,,
+education,education,"in HS, fin HS, coll,  coll grad , grad deg",,,,
+age,age,age in years,,,,
